@@ -2,16 +2,22 @@ site_name: Análise de Sentimentos e Tópicos Recorrentes do Brasil Participativ
 
 # Configurações de navegação
 nav:
-  - Quem Somos: index.md
-  - Visão Geral: overview.md
-  - Requisitos:
-      - Funcionais: requirements/functional.md
-      - Não Funcionais: requirements/nonfunctional.md
+  - Home: index.md
+  - Como executar o projeto: getting-started.md
   - Arquitetura:
       - Visão Geral: architecture/architecture.md
-  - Uso:
-      - Guia do Usuário: usage/userguide.md
+  - Documentação:
+      - Visão Geral: documentation/documentation.md
+      - Sprints: documentation/sprints.md
+      - Quadros: documentation/boards.md
+      - Reuniões: documentation/meetings.md
+  - Material de Estudo: study-material/content.md
+  - Ferramentas externas:
+      - Brasil Participativo: external-tools/brasil-participativo.md
+  - Sobre:
       - FAQs: usage/faqs.md
+      - Licença: usage/license.md
+      - Tutoriais: usage/tutorials.md
 
 theme:
   # Trata-se de um tema personalizado, que foi desenvolvido a partir do tema Material

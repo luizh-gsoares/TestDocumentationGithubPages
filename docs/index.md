@@ -1,27 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-![Stars](https://img.shields.io/github/stars/unb-mds/2024-2-Squad05)
-[![GitHub contributors](https://img.shields.io/github/contributors/unb-mds/2024-2-Squad05)](https://img.shields.io/github/contributors/unb-mds/2024-2-Squad05)
-![Stars](https://img.shields.io/github/issues/unb-mds/2024-2-Squad05.svg)
-![](<(https://img.shields.io/github/issues/unb-mds/2024-2-Squad05)>)
-![](https://img.shields.io/github/issues-closed/unb-mds/2024-2-Squad05.svg)
-
 ## Sobre o Projeto
 
 O projeto XXXXX - Análise de Sentimento e Tópicos Recorrentes do Brasil Participativo foi desenvolvido para responder à necessidade de uma visão aprofundada sobre as opiniões e percepções populares expressas no Brasil Participativo. A partir de comentários e discussões na plataforma, o nosso projeto visa identificar as principais emoções e temas discutidos pela população, oferecendo uma visão panorâmica e detalhada das tendências de opinião pública. Acreditamos que, ao oferecer uma análise clara dos sentimentos da sociedade e as principais tendências sociais, contribuímos para uma gestão pública mais inclusiva, responsável e conectada com as reais necessidades da população.
-
-## Tecnologias
-
-- **Prototipação:**
-- **Linguagens:**
-- **Framework Web:**
-
-### Instalação
-
-### Execução
-
-### Pré-Requisitos
-
-### Build do projeto
 
 ## Desenvolvedores
 
